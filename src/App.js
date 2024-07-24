@@ -4,7 +4,9 @@ import "./index.css"
 
 function App() {
   return (
-    <Body/>
+   <div > 
+     <Body/>
+   </div>
   )
 }
 
